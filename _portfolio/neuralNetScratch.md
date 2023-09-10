@@ -1,5 +1,5 @@
 ---
-title: "FitNEss"
+title: "Neural Network from Scratch"
 excerpt: "Designed a neural network from scratch using numpy.<br/>>"
 date: Sep 2020
 collection: portfolio
