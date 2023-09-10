@@ -1,11 +1,13 @@
 ---
-title: "Face Sketch-Photo Synthesis and Recognition"
+title: "Employee Attrition: Prediction, Analysis Of Contributory Factors And Recommendations For Employee Retention"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'A framework devised to mitigate the challenge faced by the law enforcement in accurately identifying faces of criminals through forensic sketches or mugshot photos.'
-date: 2022-07-29
-venue: 'Springer ‘Lecture Notes in Networks and Systems’ book series'
-paperurl: 'https://doi.org/10.1007/978-3-031-12413-6_7'
-citation: 'Mitravinda, K. M., et al. "Face Sketch-Photo Synthesis and Recognition" <i>International Conference on Image Processing and Capsule Networks.</i> Cham: Springer International Publishing, 2022.'
+excerpt: 'A framework designed to predict employees’ susceptibility to attrition and provide employers with recommendations to prevent attrition'
+date: 2023-07-14
+venue: 'IEEE Xplore'
+paperurl: 'https://ieeexplore.ieee.org/document/10176235'
+citation: 'Mitravinda, K. M., and Sakshi Shetty. "Employee Attrition: Prediction, Analysis Of Contributory Factors And Recommendations For Employee Retention" <i> 2022 IEEE International Conference for Women in Innovation, Technology & Entrepreneurship (ICWITE).</i> IEEE, 2022.'
 ---
-This paper presents a simple Face Sketch-Photo Synthesis and Recognition system. Face Sketch Synthesis provides a way to compare and match the faces present in two different modalities (i.e. face-sketches and face-photos). The aim is to significantly reduce the differences between face-sketches and face-photos and also decrease the texture irregularity between them by converting photos to sketches and vice-versa. This results in effective matching between the two thus simplifying the process of facial recognition. This system is modeled using three major components: (i) For a given input face-photo, obtaining an output face-sketch. It is designed using image processing techniques like 2 scale image decomposition and color dodging. (ii) For a given input face-sketch, obtaining an output face-photo. Convolutional Neural Networks are used to model this component. (iii) For a given query face-sketch or face-photo, recognition of face-photo or face-sketch in the database. It is implemented using Fisherface Linear Discriminant Analysis.
+In today's highly competitive and demanding work environment, gaining accurate insights into what causes employee attrition will enable organizations to work on improving factors influencing it, so that they can retain excellent and hardworking employees — and by extension, continue to maintain the quality of the products or services they deliver. Moreover, such insights will also help employees to be better informed about the nature of the organization they intend to join. Based on the IBM HR Analytics Employee Attrition & Performance dataset, we have designed a system which assesses the importance of each feature that contributes towards each employee's possible attrition from the company. Through data visualization, feature importance calculation using SHAP (SHapley Additive exPlanations) index and prediction of attrition using machine learning models, we have determined which factors contribute the most towards employee attrition. A recommendation system is implemented based on the user-based collaborative filtering technique which churns out recommendations for what can be done to retain each employee based on their identified cause of attrition. This combination of computational methods can not only help employers to predict the possibility of attrition of new employees, but also prevent it.
+
+The research paper was presented at the [International Conference on Women in Innovation, Technology and Entrepreneurship (ICWITE) 2022](https://drive.google.com/file/d/1BkHSyA8cK1Cb_ETY02Z9ajd3yrhIyFI6/view?usp=sharing)
