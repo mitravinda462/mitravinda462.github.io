@@ -1,6 +1,7 @@
 ---
 title: "FitNEss"
-excerpt: "Physical fitness and mental health monitoring app.<br/><img src='/images/fitness.png'>"
+excerpt: "Physical fitness and mental health monitoring app.<br/><img src='/images/fitness.png' width='400' height='600'>"
+date: Feb - Apr 2020
 collection: portfolio
 ---
 
