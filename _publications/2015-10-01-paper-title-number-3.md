@@ -1,7 +1,7 @@
 ---
 title: "Face Sketch-Photo Synthesis and Recognition"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2009-10-01-paper-title-number-3
 excerpt: 'A framework devised to mitigate the challenge faced by the law enforcement in accurately identifying faces of criminals through forensic sketches or mugshot photos.'
 date: 2022-07-29
 venue: 'Springer ‘Lecture Notes in Networks and Systems’ book series'
