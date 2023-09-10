@@ -1,6 +1,7 @@
 ---
 title: "Big Mart Data Analysis"
-excerpt: "Data Analysis performed on Big Mart Dataset.<br/><img src='/images/bigmart.png' width='300' height='400'>"
+excerpt: "Data Analysis performed on Big Mart Dataset.<br/><img src='/images/bigmart.png' width='400' height='600'>"
+date: November 2019
 collection: portfolio
 ---
 
