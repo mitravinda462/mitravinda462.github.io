@@ -2,7 +2,7 @@
 title: "Employee Attrition: Prediction, Analysis Of Contributory Factors And Recommendations For Employee Retention"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'A framework designed to predict employees’ susceptibility to attrition and provide employers with recommendations to prevent attrition'
+excerpt: 'A framework designed to predict employees’ susceptibility to attrition and provide employers with recommendations to prevent attrition.'
 date: 2023-07-14
 venue: 'IEEE Xplore'
 paperurl: 'https://ieeexplore.ieee.org/document/10176235'
