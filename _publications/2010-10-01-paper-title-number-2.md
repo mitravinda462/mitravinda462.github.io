@@ -2,7 +2,7 @@
 title: "Mental Health in Tech: Analysis of Workplace Risk Factors and Impact of COVID-19"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'Researched the factors affecting mental health of employees in the tech industry, performed prediction and mental health risk-classification along witb multi-year study on the impact of COVID-19 towards the mental health scenario in tech'
+excerpt: 'Researched the factors affecting mental health of employees in the tech industry, performed prediction and mental health risk-classification along with multi-year study on the impact of COVID-19 towards the mental health scenario in tech.'
 date: 2023-02-08
 venue: 'Springer Nature Computer Science'
 paperurl: 'https://link.springer.com/article/10.1007/s42979-022-01613-z'
