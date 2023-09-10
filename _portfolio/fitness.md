@@ -8,4 +8,4 @@ This app provides the users with useful tools and facilities to aid in the enhan
 
 FitNEss aims to aid the user with the combination of good nutrition, right physical and mental practices and appropriate thoughts. 
 
- The project can be found [here](https://github.com/mitravinda462/FitNEss)
+The project can be found [here](https://github.com/mitravinda462/FitNEss)
