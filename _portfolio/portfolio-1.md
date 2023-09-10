@@ -18,4 +18,4 @@ collection: portfolio
  hassle. The ability to reap its benefits from the comfort of one’s own home has only bolstered its
  claim as one of the biggest enterprises that dominates the internet.
 
- The project can be found [here](https://github.com/mitravinda462/SRS-Document-for-Online-Shopping-Website)https://github.com/mitravinda462/SRS-Document-for-Online-Shopping-Website)
+ The project can be found [here](https://github.com/mitravinda462/SRS-Document-for-Online-Shopping-Website)
