@@ -26,5 +26,7 @@ I used the face-sketch synthesis module to generate a face-sketch database of th
 I finally used Linear Discriminant Analysis to perform facial recognition on face-photos and face-sketches. 
 
 The framework also took care of variations like different skin tones and hair colors, absence of hair, presence of beard, mustache or spectacles. In addition to the statistical evaluation metrics like Feature Similarity Index Measure, Structural Similarity Index Measure, Universal image Quality Index, I conducted an online survey to rate the similarity between the original and generated images, thus capturing the human visual similarity perception.
+![fss](https://github.com/mitravinda462/mitravinda462.github.io/assets/53876415/f2cc62cb-08c7-493c-8cec-875c05359394)
+
 
 The project can be found [here](https://github.com/mitravinda462/Face-photo-sketch-synthesis-and-Recognition)
