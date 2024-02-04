@@ -1,6 +1,6 @@
 ---
 title: "Face Sketch-Photo Synthesis & Recognition"
-excerpt: "Framework to synthesize face sketches from photos and vice-versa along with facial recognition.<br/><img src='images/fss.png' width='700' height='500'>"
+excerpt: "Framework to synthesize face sketches from photos and vice-versa along with facial recognition.<br/><img src='images/fss.png' width='600' height='400'>"
 date: Jan - Dec 2021
 collection: portfolio
 ---
