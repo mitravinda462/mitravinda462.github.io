@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "K M Mitravinda"
+title                    : "Mitravinda K M"
 title_separator          : "-"
-name                     : &name "K M Mitravinda"
+name                     : &name "Mitravinda K M"
 description              : &description "she/her"
 url                      : https://mitravinda462.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
