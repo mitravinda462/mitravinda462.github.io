@@ -1,7 +1,6 @@
 ---
 title: "SRS-Document-for-Online-Shopping-Website"
 excerpt: "Prepared a System Requirements Specification Document for an online shopping website.<br/><img src='/images/srs.png' width='400' height='600'>"
-date: Apr 2021
 collection: portfolio
 ---
 
