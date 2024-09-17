@@ -1,7 +1,6 @@
 ---
 title: "ilmodella - Fashion Website"
 excerpt: "Designed a fashion e-commerce website with dynamic web pages and attractive display of outfits.<br/><img src='/images/ilmodella.png' width='400' height='600'>"
-date: Nov 2019
 collection: portfolio
 ---
 
