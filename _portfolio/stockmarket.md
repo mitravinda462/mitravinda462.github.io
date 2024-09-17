@@ -1,7 +1,6 @@
 ---
 title: "Stock Market Trend Prediction"
 excerpt: "Stock market trend prediciton done on the S&P market index datasetp.<br/><img src='/images/stockmarket.png' width='400' height='600'>"
-date: Apr 2020
 collection: portfolio
 ---
 
