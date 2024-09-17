@@ -1,7 +1,6 @@
 ---
 title: "Roadmap"
 excerpt: "A simple implementation a travel planner using graph data structure."
-date: Oct 2019
 collection: portfolio
 ---
 
